@@ -1,0 +1,175 @@
+.profilebanner8-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.profilebanner8-profilebanner8 {
+  width: 100%;
+  height: 240px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.profilebanner8-rectangle5 {
+  top: 137px;
+  left: -3px;
+  width: 1025px;
+  height: 103px;
+  position: absolute;
+}
+.profilebanner8-facpfilogo021 {
+  top: 36px;
+  left: 40px;
+  width: 176px;
+  height: 181px;
+  position: absolute;
+}
+.profilebanner8-rectangle1 {
+  top: 134px;
+  left: 251px;
+  width: 115px;
+  height: 7px;
+  position: absolute;
+}
+.profilebanner8-text {
+  top: 34px;
+  left: 251px;
+  color: rgba(0, 0, 0, 1);
+  width: 348px;
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Helvetica;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.profilebanner8-text01 {
+  font-weight: 400;
+}
+.profilebanner8-text03 {
+  top: 85px;
+  left: 251px;
+  color: rgba(0, 95, 104, 1);
+  width: 352px;
+  height: auto;
+  position: absolute;
+  font-size: 19.435583114624023px;
+  font-style: Light;
+  text-align: left;
+  font-family: Helvetica;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.profilebanner8-text05 {
+  top: 158px;
+  left: 818px;
+  color: rgba(0, 95, 104, 1);
+  width: 150px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Helvetica;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.profilebanner8-vector {
+  top: 161px;
+  left: 779px;
+  width: 26px;
+  height: 13px;
+  position: absolute;
+}
+.profilebanner8-text07 {
+  top: 158px;
+  left: 558px;
+  color: rgba(0, 95, 104, 1);
+  width: 125px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Helvetica;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.profilebanner8-vector1 {
+  top: 160px;
+  left: 529px;
+  width: 14px;
+  height: 16px;
+  position: absolute;
+}
+.profilebanner8-text09 {
+  top: 199px;
+  left: 283px;
+  color: rgba(0, 95, 104, 1);
+  width: 500px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Helvetica;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.profilebanner8-vector2 {
+  top: 198px;
+  left: 255px;
+  width: 13px;
+  height: 19px;
+  position: absolute;
+}
+.profilebanner8-text11 {
+  top: 158px;
+  left: 284px;
+  color: rgba(0, 95, 104, 1);
+  width: 148px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Helvetica;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.profilebanner8-text13 {
+  top: 158px;
+  left: 251px;
+  color: rgba(0, 131, 143, 1);
+  width: 23px;
+  height: auto;
+  position: absolute;
+  font-size: 20.125px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Helvetica;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
